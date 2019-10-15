@@ -67,8 +67,6 @@ travelFour {
     "I'm going to \($0) at \($1) miles per hour."
 }
 
-
-
 func travelFive() -> (String) -> Void {
     var counter = 1
 
